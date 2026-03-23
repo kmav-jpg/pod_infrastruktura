@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+    <ime>Ivan</ime>
+    <prezime>Horvat</prezime>
+    <jmbag>24688567890</jmbag>
+    <dob>2000-03-16</dob>
+    <godina_studija>2</godina_studija>
+    <email>ivan.horvat@tvz.hr</email>
+    <telefon>0981234567</telefon>
+    <naziv_kolegija>Podatkovna Infrastruktura</naziv_kolegija>
+    <ime_profesora>Marinko Marinković</ime_profesora>
+    <broj_ECTS>5</broj_ECTS>
+</Student>
